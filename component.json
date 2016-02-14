@@ -5,6 +5,8 @@
     "main": "./lib/index",
     "tag": "master",
     "reposType": "npm",
-    "version": "3.7.1",
-    "dependencies": {}
+    "version": "3.9.0",
+    "dependencies": {
+        "object-assign": "^4.0.1"
+    }
 }
